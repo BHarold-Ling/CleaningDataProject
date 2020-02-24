@@ -6,7 +6,7 @@ library(tidyr)
 
 ## Global variables
 
-datadir <- "Data/"
+datadir <- "./"
 ucidir <- paste0(datadir, "UCI HAR Dataset/")
 
 ## Test settings
